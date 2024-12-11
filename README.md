@@ -70,7 +70,7 @@ Welcome to my personal portfolio website! This project showcases my professional
 Check out the live website: [Vivek's Portfolio](https://yourportfolio.com)
 
 ## 📧 Contact
-- Email: [kesavarapuvivek@gmail.com](mailto:kesavarapuvivek@gmail.com)
+- Email: [vivek@gmail.com]()
 - GitHub: [truly-vivek](https://github.com/truly-vivek)
 - LinkedIn: [Vivek's LinkedIn](https://linkedin.com/in/vivek76)
 
