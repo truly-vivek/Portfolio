@@ -1,4 +1,4 @@
-# Vivek's Portfolio
+# Portfolio
 
 Welcome to my personal portfolio website! This project showcases my professional journey, skills, and projects in a visually engaging format.
 
@@ -32,48 +32,20 @@ Welcome to my personal portfolio website! This project showcases my professional
 - **Tailwind CSS**: Utility-first CSS framework.
 - **FontAwesome**: Icons for visual elements.
 
-## 📌 Sections Overview
+## 📌 Sections
 
-### Hero Section
-- Introduces me as "Vivek Reddy Kesavarapu" with links to view projects and download my resume.
-
-### Skills Section
-- Displays my technical skills in:
-  - Programming: Python, Java, C
-  - Data Science: NumPy, Pandas, Matplotlib
-  - Machine Learning: TensorFlow, scikit-learn
-  - Web Development: HTML5, CSS, JavaScript
-
-### Projects Section
-- Highlights my key projects, including:
-  - Speech-to-Sign Language Conversion
-  - Age & Gender Prediction
-  - Line Follower Robot
-  - Portfolio Website
-  - Age in Days with Diverse Milestones
-  - Electronic Resume
-  - Survey on Food Waste
-  - Voice-Controlled Robot
-
-### Education Section
-- Academic qualifications:
-  - Master's in Data Science (XYZ University)
-  - Bachelor's in Computer Science (XYZ University)
-
+### Hero 
+### Skills 
+### Projects
+### Education 
 ### Contact Form
-- Allows visitors to send messages via a form with a popup for success or failure notifications.
 
 ## 📷 Preview
 ![Portfolio Screenshot](vivek.jpg)
 
 ## 🔗 Live Demo
-Check out the live website: [Vivek's Portfolio](https://yourportfolio.com)
-
-## 📧 Contact
-- Email: [vivek@gmail.com]()
-- GitHub: [truly-vivek](https://github.com/truly-vivek)
-- LinkedIn: [Vivek's LinkedIn](https://linkedin.com/in/vivek76)
-
+Check out the live website: [Portfolio]()
+  
 ---
 
 ## 📖 How to Use
@@ -112,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ```plaintext
 MIT License
 
-Copyright (c) 2024 Vivek Reddy Kesavarapu
+Copyright (c) 2024 Vivek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
